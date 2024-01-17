@@ -98,7 +98,7 @@ where basepay is null;
 -- to view the data after deleted rows
 select * from salaries;
 
--- delete the column
+-- delete the column "Notes"
 
 alter table salaries
 drop column notes;

@@ -10,7 +10,7 @@ The major aim of this project is to gain insight into the Salaries data to under
 
 ## About Data
 
-This dataset contains Salaries of Employyes respectively .The data contains 13 columns and 148654 rows:
+This dataset contains Salaries of Employees respectively .The data contains 13 columns and 148654 rows:
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |

@@ -49,3 +49,4 @@ This dataset contains Salaries of Employees respectively .The data contains 13 c
 16. Show all job titles with an average basepay of atleast 100000 and order them by the average basepay in descending order
 17. Update the basepay of all employees with the jobtitle containing "Manager" by increasing it by 10%
 18. delete all employees who have no basepay
+19. delete the column "Notes"
